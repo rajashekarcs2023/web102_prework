@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Crowdfunding Website*
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Crowdfunding Website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -14,6 +14,8 @@ The following **required** functionality is completed:
 * [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [ ] The website identifies and displays the top two most funded games on the page.
+* [ ] Users can filter games based on their funding status using buttons (e.g., funded, unfunded, all).Clicking on these buttons triggers the display of games that match the selected filter
 
 The following **optional** features are implemented:
 
@@ -34,11 +36,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Finding the right variables for each functionality was a challenge I faced throughout this project.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Rajashekar Vennavelli]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
