@@ -23,10 +23,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: ![Website Walkthrough](https://i.imgur.com/Y47uCCL.gif)
 
-
-![Website Walkthrough](https://i.imgur.com/Y47uCCL.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
