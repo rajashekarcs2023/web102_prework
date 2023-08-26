@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Alt Text](http://i.imgur.com/Y47uCCL.gif)
+![Walkthrough] (http://i.imgur.com/Y47uCCL.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
