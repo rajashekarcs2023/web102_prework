@@ -1,6 +1,6 @@
 # WEB102 Prework - *Crowdfunding Website*
 
-Submitted by: **Your Name Here**
+Submitted by: **Rajashekar Vennavelli**
 
 **Crowdfunding Website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -25,18 +25,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Y47uCCL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap 
+
 
 ## Notes
 
-Finding the right variables for each functionality was a challenge I faced throughout this project.
+Finding the right variables and accessing them for each functionality was a challenge I faced throughout this project.
 
 ## License
 
