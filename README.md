@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: ![Website Walkthrough](https://i.imgur.com/5zLi4GG.gif)
+Here's a walkthrough of implemented features: ![Website Walkthrough](./assets/CfgamesRajashekarV.gif)
 
 
 
