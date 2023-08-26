@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
-![](https://i.imgur.com/Y47uCCL.gif)
+![](https://i.imgur.com/Y47uCCL.gif.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
